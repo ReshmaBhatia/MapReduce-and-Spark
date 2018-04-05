@@ -1,0 +1,483 @@
+109th anniversary	1	2.000
+10nth anniversary dinner	1	8.000
+10th anniversary dinner	1	4.000
+112th anniversary	1	3.000
+115nth annual dinner	1	8.000
+116th anniversary	1	12.000
+120 annual banquet	1	6.000
+120th anniversary dinner	1	3.000
+124th annual meeting  luncheon	1	4.000
+128th anniversary dinner	1	2.000
+12th annual dinner	1	16.000
+139th anniversary	1	4.000
+13th annual dinner	1	8.000
+140th anniversary	1	4.000
+14nth annual dinner	1	4.000
+14th annual dinner	1	4.000
+157th anniversary of birthday of washington	1	2.000
+15nth annual dinner	1	4.000
+15nth burns anniversary	1	8.000
+15th annual dinner	1	4.000
+16th annual dinner	1	4.000
+173rd regular meeting	1	6.000
+17nth annual dinner	1	4.000
+17th annual reunion and dinner	1	4.000
+18th annual dinner	1	12.000
+1900s sexennial	1	2.000
+20th anniversary dinner	1	4.000
+23rd annual dinner	1	4.000
+23rd annual meeting	1	4.000
+25th anniversary	1	4.000
+25th annual meeting   banquet	1	4.000
+28 anniversary dinner	1	8.000
+2nd annual dinner	2	4.000
+2nd annual dinner commemorating the first centennial of rockland county	1	14.000
+2nd annual initiation banquet	1	8.000
+31st anniversary	1	4.000
+37th annual dinner	1	2.000
+3rd annual banquet	1	2.000
+4th annual dinner	2	3.000
+6th annual banquet	2	8.000
+74th bithday of u s  grant	1	20.000
+75th anniversary dinner	1	6.000
+78th anniversary of lincolns birthday	1	3.000
+93rd regular meeting	1	8.000
+96s decennial	1	2.000
+9nth danzinger martini fest	1	4.000
+9th annual dinner	1	34.000
+a farewell dinner to dr  stephen s  wise	1	4.000
+a la carte	1	4.000
+a la carte dinner menu	1	4.000
+a la carte menu	7	3.429
+abendessen	1	2.000
+afternoon tea	2	6.500
+airlines terminal dinner	1	9.000
+all american banquet in honor of edwin c  hall	1	8.000
+alumni reunion	1	2.000
+anniversary	1	4.000
+anniversary  dinner	1	3.000
+anniversary celebration	1	4.000
+anniversary dinner	2	2.500
+anniversary dinner of the presentation of loving cup	1	4.000
+anniversary of george washingtons birthday	1	2.000
+annual banquet	4	6.500
+annual banquet tendered to their representatives	1	4.000
+annual dinner	29	5.310
+annual dinner in honor of bithday of benjamin franklin	1	4.000
+annual dinner to employees	1	4.000
+annual meeting	1	4.000
+annual mess dinner	1	2.000
+annual washingtons birthday dinner	1	4.000
+arrival of the raleigh from manila	1	2.000
+au revoir to mr  frank d  lalanne	1	8.000
+bachelor party dinner	1	4.000
+ball	3	1.667
+banchetto	1	2.000
+banquet	12	4.833
+banquet and meeting	1	4.000
+banquet aux membres du jury a loccasion des concours internationaux dhorticulture	1	2.000
+banquet honoring ight rev  w n  mcvickar	1	2.000
+banquet in celebration of washingtons first inauguration	1	2.000
+banquet in commemoration of the 200th anniversary of the birth of dr  benjamin franklin	1	12.000
+banquet in honor of congressmen from greater new york	1	4.000
+banquet in honor of count ferdinand de lessups	1	4.000
+banquet in honor of ferdinand w  peck	1	12.000
+banquet in honor of k  ishii	1	4.000
+banquet in honor of kaiser wilhelm ii	1	4.000
+banquet in honor of rear admiral winfield scott schlet and commander washburn maynard	1	4.000
+banquet in honor of s e  il prof  luigi rava  minister of instruction	1	2.000
+banquet in honor of the third annual convention of above	2	2.000
+banquet on completion of northern pacific railroad	1	2.000
+banquet to captain w  skjodt on the occasion of his 100th trip as commander of the steamship island	1	4.000
+banquet to commemorate the evacution of ny by the british	1	4.000
+banquet to dlegates of the national municipal league	1	4.000
+banquet to the earl of aberdeen	1	4.000
+banquet to the officers of the cruiser baltimore	1	4.000
+banquet to the typothetoe of america	1	12.000
+beverage list	1	3.000
+beverages	1	3.000
+bill of fare	12	2.833
+bill of fare  breakfast   supper	1	4.000
+birthday dinner to mr  all  meritt	1	2.000
+board of directors dinner	1	8.000
+bon voyage to mr  james pollock	1	4.000
+breakdast	1	2.000
+breakfast	613	2.258
+breakfast     held by nordeutscher lloyd bremen at on board the ss george washington	2	1.500
+breakfast   dinner menu	1	4.000
+breakfast  held by nordeutscher lloyd bremen at on board the ss george washington	1	1.000
+breakfast  la carte	1	2.000
+breakfast  on funeral train of president mckinley	2	2.000
+breakfast  pullman dining car service	1	2.000
+breakfast  second cabin	3	2.000
+breakfast  tour of the pres  to chicago   the northwest	1	2.000
+breakfast and supper	1	4.000
+breakfast by usms st louis	1	1.000
+breakfast for guests of minnesota iron company	1	2.000
+breakfast menu	4	2.500
+breakfastsecond cabin	1	2.000
+brealfast	2	2.000
+brunch	5	3.000
+buffet service  breakfast	1	2.000
+buffet train lunch	1	2.000
+cafe half portion breakfast	1	2.000
+cafe service meals	2	2.000
+carte du jour	6	2.000
+carte du jourdejeuner	3	2.000
+carte du jourdiner	3	2.000
+celebration banquet	1	33.000
+champagnes list	1	1.000
+chefs tasting menu	1	5.000
+christmas dinner	11	3.273
+christmas dinnr	1	8.000
+closing reception	1	2.000
+club dinner	1	2.000
+cocktails	1	14.000
+coming of age   banquet	1	8.000
+commencement dinner	1	2.000
+complete menu	1	4.000
+complimentary dinner to gen  felix agnus of baltimore	1	4.000
+complimentary dinner to the officers and cadets of west point military academy	1	2.000
+complimentary luncheon	2	4.000
+convention	1	4.000
+coronation ball	1	2.000
+coronation dinner	1	4.000
+coronation supper for 800	1	2.000
+daily	1	4.000
+daily bill of fare	5	3.200
+daily breakfast	1	2.000
+daily dinner	3	2.667
+daily dinner menu	2	3.000
+daily lunch	4	2.000
+daily menu	81	3.407
+daily menu  dinner	1	2.000
+daily menu  lunch	1	2.000
+daily specials	1	2.000
+dedication	1	24.000
+dejeuner	2	2.000
+dessert	5	3.800
+dewey day dinner	1	4.000
+diner	5	3.000
+diner dadieu	1	2.000
+diner de la literature fin de siecle	1	2.000
+diner dinner	2	2.500
+dinergala	1	2.000
+dinhner	1	2.000
+dining car service	1	4.000
+dining car service  dinner	2	4.000
+dining car service meals	5	2.000
+dining room menu	1	2.000
+dinne	1	4.000
+dinner	999	2.859
+dinner   lunch	1	2.000
+dinner  la carte	3	4.000
+dinner  on funeral train of president mckinley	1	2.000
+dinner  second cabin	11	2.364
+dinner  tour of the pres  to chicago   the northwest	1	2.000
+dinner  trip of president mc kinley to paterson for funeral of vice president hobart	1	2.000
+dinner and breakfast	1	4.000
+dinner and wine and birthday	1	3.000
+dinner at the sudan club	1	1.000
+dinner by mr and mrs hugo reisinger of nyc	1	2.000
+dinner diner	1	2.000
+dinner for bartolomeo bertini and margherita andreini bertini	1	4.000
+dinner for bond committee and officers of the colonial club	1	4.000
+dinner for committee for preliminaries for the worlds fair	1	4.000
+dinner for guests of minnesota iron company	1	2.000
+dinner for hon  anthony howells	1	2.000
+dinner for hon  warner miller  pres  of nicaragua canal construction co	1	8.000
+dinner for joseph august	1	2.000
+dinner for king and queen of portugal	1	5.000
+dinner from 6 to 8	1	1.000
+dinner given at the seventeenth annual convention of the ohio bankers association	1	4.000
+dinner given by george c  boldt to his employees	1	2.000
+dinner given in honour of judge henry steinert	1	8.000
+dinner given to commodore harry b  gilpin	1	8.000
+dinner given to men of ny central   hudson rr	1	4.000
+dinner given to themselves	1	4.000
+dinner in aid of the reform of the tariff	1	1.000
+dinner in honor o general nelson a  miles	1	2.000
+dinner in honor of don ramon pina y millet	1	10.000
+dinner in honor of hakan johansen	1	4.000
+dinner in honor of hon  j i clarke hare	1	12.000
+dinner in honor of john a  mccall	1	8.000
+dinner in honor of mr  frank pollock	1	2.000
+dinner in honor of mr  theodore roosevelt	1	4.000
+dinner in honor of s a r monseigneur le comte trapani	1	2.000
+dinner in honor of s s  packards 70th bithday	1	6.000
+dinner in honor of the vice president of the united states and the visiting congressional committee	1	2.000
+dinner menu	8	3.000
+dinner of the fruit trade of new york city	1	12.000
+dinner on	1	2.000
+dinner on board	1	2.000
+dinner on last day	1	2.000
+dinner on special train for secy of war elihu root and party	1	2.000
+dinner on the eve of his departure	1	2.000
+dinner on the eve of the wedding of princess josephine of belgium and prince carl von hohenzollern	1	2.000
+dinner or lunch	1	2.000
+dinner second cabin	4	2.000
+dinner to  george c  clark	1	2.000
+dinner to above	1	2.000
+dinner to albert stettheimer	1	8.000
+dinner to chilian officials	1	2.000
+dinner to count ferdinand de lessups	1	2.000
+dinner to diplomatic corps	1	4.000
+dinner to dr  a  conan doyle	1	3.000
+dinner to dr otto nordenskjold	1	4.000
+dinner to gov  david b  hill	1	4.000
+dinner to gov myron t herrick of ohio   gov b b brook of wyoming	1	2.000
+dinner to her bridesmaids	1	4.000
+dinner to honourable john b mcpherson	1	20.000
+dinner to kaiser wilhelm and kaiserin auguste victoria of germany	1	2.000
+dinner to m  warley platzek in honor of his election as a justice of the supreme court	1	8.000
+dinner to mr  frank gannon	1	8.000
+dinner to president theodore roosevelt	1	2.000
+dinner to republican speakers	1	8.000
+dinner to robert t  lincoln	1	8.000
+dinner to s t wellman	1	8.000
+dinner to secretary of state   mrs  root	1	2.000
+dinner to stick togethr club	1	8.000
+dinner to the delegates of the international marine conference	1	2.000
+dinner to the franklin dinner committee	1	4.000
+dinner to the president of the us   the inland waterways commission	1	12.000
+dinner to the stick together club	1	8.000
+dinner vaudeville	1	4.000
+dinnera la carte	1	2.000
+dinnersecond cabin	1	2.000
+dinnwe	1	4.000
+directed by signor caioli luigi	1	4.000
+dnner	1	2.000
+drinks and snacks	1	8.000
+eighth anniversary banquet	1	8.000
+eighth annual dinner	2	4.000
+eleventh annual banquet	2	6.000
+en route to boston and return	1	2.000
+evening meal	2	2.000
+evening menu	1	5.000
+examination paper	1	4.000
+executive committee dinner	1	4.000
+expresssteamer furst bismarck dinner	1	4.000
+farewell dinner	1	4.000
+farewell dinner to maestro giacomo puccini on the occasion of his departure to europe	1	8.000
+farewell dinner to mr  william clark	1	4.000
+farewell to old delmonicos	1	2.000
+festbankett	1	2.000
+fifh annual dinner	1	8.000
+fifteenth annual dinner	1	2.000
+fifth annual dinner	1	4.000
+fifth annual dinner of the macdowell club of new york city	1	15.000
+fifth annual reunion	1	4.000
+first annual banquet	5	14.800
+first annual dinner	3	5.333
+first banquet	1	4.000
+formal opening of the new house	1	4.000
+fortieth anniversary and banquet	1	4.000
+fortyfourth annual dinner	1	8.000
+fortythird anniversary	1	4.000
+founders dinner	1	2.000
+fourteenth burns anniversary	1	8.000
+fourth annual banquet	2	12.000
+fourth annual dinner	3	4.000
+fourth annusl dinner	1	4.000
+fourth dinnerdiscussion	1	2.000
+fruhstuck	17	2.000
+fruhstuck a la carte	5	2.000
+fruhstuck breakfast	2	2.000
+fruhstuck lunch	2	4.000
+fruhstuckbreakfast	3	2.667
+fruhstucklunch	4	2.000
+fruhstuckluncheon	10	2.000
+general  grants birthday	1	2.000
+glorification oa william henry jackson	1	4.000
+grand hotel mens banquet	1	2.000
+hauptmahlzeit	2	4.000
+hauptmahlzeitdinner	5	4.000
+hazels pure food luncheon	1	12.000
+holiday dinner	1	8.000
+honoring james m  barrie and w  robertson nicoll	1	4.000
+inauguration day	1	4.000
+inernational yacht races	1	4.000
+informal dinner	1	2.000
+john   e  sturge directors dinner	1	2.000
+jubilee fete	1	4.000
+july fourth dinner	1	4.000
+kings birthday dinner	1	16.000
+ladies night	1	7.000
+launching of ferryboat richmond	1	4.000
+le petit souper	1	2.000
+lincheon	1	2.000
+lincolns birthday dinner	1	8.000
+lumch and dinner	1	4.000
+lunch	390	2.236
+lunch   dinner	5	4.000
+lunch  americas cup races	1	4.000
+lunch  dinner	1	4.000
+lunch  la carte	8	1.000
+lunch  speisekarte	1	2.000
+lunch a la carte	7	1.000
+lunch a la carte held by nordeutscher lloyd bremen at on board ss berlin	3	1.000
+lunch a la carte held by nordeutscher lloyd bremen at on board ss george washington	1	1.000
+lunch a la carte held by nordeutscher lloyd bremen at on board ss kaiser wilhelm der grosse	4	1.000
+lunch and dinner	2	1.500
+lunch and or dinner	1	2.000
+lunch at rowdy home for theodore roosevelt	1	2.000
+lunch for mrs  thos  brady   daughter in remembrance of a very pleasant evening april 1890	1	4.000
+lunch menu	3	2.333
+lunch on tour of the president to the pacific coast	1	2.000
+lunch or dinner	3	4.000
+lunch or early dinner	1	2.000
+lunch presidential tour to the pacific coast	1	2.000
+lunch room	1	2.000
+lunch second cabin	8	2.000
+luncheon	231	2.035
+luncheon  on funeral train of president mckinley	2	2.000
+luncheon  pullman dining car service	1	2.000
+luncheon  second cabin	9	2.000
+luncheon  tour of the pres  to chicago   the northwest	1	2.000
+luncheon and dinner	1	12.000
+luncheon for 120 guest	1	2.000
+luncheon for civil governmnt day	1	2.000
+luncheon for guests of minnesota iron company	1	2.000
+luncheon from 12 to 2 30 pm	1	2.000
+luncheon given aboard in veracruz harbor in honor of visiting delegates to the convention of the american public health association in mexico city	1	2.000
+luncheon given by the irish fellowship club to william howard taft	1	3.000
+luncheon menu	2	2.000
+luncheon tendered to hon william jennings bryan	1	16.000
+luncheon to gentlemen who accompanied him on the first train through the belmont tunnel under the east river on opening day  of irt	1	2.000
+luncheon to hotel mens mutual benefit association	1	6.000
+luncheon to state hotel association of pennsylvania	1	2.000
+luncheonette	1	3.000
+menu	18	2.667
+menu aboard ss barbarossa	1	4.000
+middag dinner	5	4.000
+middagdinner	1	4.000
+midday dinner	12	2.167
+midday meal	6	2.000
+mitagessen	2	2.000
+mittagesen	2	4.000
+mittagessen	18	2.556
+mittagessen  dinner	6	2.333
+mittagessen dinner	1	2.000
+mittagesses	1	2.000
+new years day dinner	1	2.000
+new years day supper	1	2.000
+new years dinner	2	2.000
+new years eve gala dinner	1	1.000
+nineteenth annual dinner	2	4.000
+ninth annual banquest and meeting	1	12.000
+ninth annual dinner	3	3.333
+ninth annual dinner of masters and past masters association	1	4.000
+ninth annual meeting and banquet	2	6.000
+ninth annualin honor of crow charlton	1	4.000
+no  iv of five subscription cotillions	1	2.000
+norddeutscher lloyd bremen   dinner	3	8.000
+norddeutscher lloyd bremen lunch and dinner menu	1	8.000
+norddeutscher lloyd bremen speise karte   breakfast	1	4.000
+one hundred and third regular meeting	1	8.000
+opening banquet	1	2.000
+opening dinner	1	4.000
+opera supper	1	2.000
+paas festival	1	2.000
+pan american exposition	1	2.000
+personally conducted tour through mexico and calfiornia  breakfast	1	2.000
+picnic	1	2.000
+pre theatre	1	5.000
+presentation of sword to capt a c  braden	1	4.000
+presidential tour to the pacific coast	1	2.000
+private banquet	1	2.000
+private dinner	2	2.000
+probebankett	1	2.000
+queen victorias birthday	1	2.000
+quick luncheon and afternoon tea	1	4.000
+ramadhan snack menu	1	6.000
+reception and banquet	1	5.000
+reunion	1	33.000
+reunion  class of 1897	1	12.000
+reunion and dinner	1	4.000
+room service	5	6.200
+room service luncheon	1	1.000
+royal hotel white horse rangoon whiskey menu	1	2.000
+saint nicholas day	1	2.000
+sandwich list	1	3.000
+schweinessen  pig eating	1	2.000
+second anniversary dinner	2	5.000
+second annual banquet	1	8.000
+second annual dinner	1	2.000
+second annual reunion	1	4.000
+see above	1	2.000
+semicentennial of opening	1	20.000
+seventh annual banquet	1	4.000
+seventh annual banquet to the st  louis traffic commission	1	18.000
+seventh annual dinner	1	12.000
+sixteenth annual conventionluncheon	1	2.000
+sixteenth annual dinner	1	4.000
+sixth annual banquet	2	7.500
+sixth annual dinner	3	6.667
+souper	1	2.000
+souper intime	1	3.000
+souper salads	1	2.000
+souper sic	1	2.000
+special dewey lunch	1	2.000
+special lenten dishes	1	2.000
+special luncheon	1	2.000
+speise karte menu card	6	2.000
+speisekarte	5	1.800
+speisenfolge	4	4.000
+spiszeddel	1	2.000
+spring dinner	1	4.000
+st  valentines day dinner	1	4.000
+stiftungsfest	1	4.000
+sunday dinner	3	2.000
+sunday lunch	1	3.000
+sunday menu	1	4.000
+supper	63	2.095
+supper at the ball	1	4.000
+supper to  james a  herne	1	2.000
+table dhote de bon vivant	1	2.000
+table dhote dinner	3	2.000
+table dhote dinner  from 12 30 to 2 30   5 30 to 8 p m	1	2.000
+table dhote lunch	1	2.000
+table dhote luncheon	1	2.000
+table dhote meal	1	2.000
+table dhote menu	1	2.000
+tea menu	1	4.000
+tenth annual dinner	1	4.000
+tenth burns annivesary	1	8.000
+testimonial   reception in honor of 25th anniversary of george f  lyon in journalism	1	18.000
+testimonial banquet to hon  charles welde	1	16.000
+testimonial dinner	1	4.000
+testimonial to m e  frederick e  barnes past grand high priest	1	4.000
+thanksgiving day breakfast	1	2.000
+thanksgiving day dinner	1	2.000
+thanksgiving day menu   program	1	4.000
+thanksgiving dinner	6	4.000
+the canterbury luncheon club	1	5.000
+the de lesseps dinner	1	2.000
+third annual banquet	2	4.000
+third annual dinner	2	6.000
+thirteenth annual dinner	1	4.000
+thirtyfirst annual dinner	1	6.000
+tiffin	124	2.000
+to the captain   officers of h n m ss van speijk	1	4.000
+tour of the president to the pacific coastbreakfast	1	2.000
+tour of the president to the pacific coastdinner	1	2.000
+tour to buffalo  dinner	1	2.000
+tour to buffaloluncheon	3	2.000
+trip to philadelphia and 244th regular dinner	1	20.000
+turkey dinner	1	2.000
+twelfth annual banquet	1	10.000
+twelfth annual reunion	1	16.000
+twentieth annual dinner	1	4.000
+twenty third annual dinner of the new york florists club at the fifth avenue restaurant	1	4.000
+twentyfifth annivesay o founding of club	1	2.000
+twentyfirst anniversary dinner	1	8.000
+twentyninth annual dinner	1	8.000
+twentyseventh annual banquet of the loyal league	1	4.000
+twentysixth annual reception	1	4.000
+u s grants birthday	1	2.000
+washingt0ns birthday	1	4.000
+washingtons birthday banquet	1	4.000
+washingtons birthday dinner	1	2.000
+wedding dinner	1	2.000
+wedding lunch	1	2.000
+wine list	8	5.875
